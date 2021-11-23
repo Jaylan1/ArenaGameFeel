@@ -1,8 +1,13 @@
 # ArenaGameFeel
 
 ## Screenshot
+- THUMBNAIL
+- GIF
 
 ### Table of Content
+- Description
+- How to play the game
+- Author Info
 
 ## Description
 
