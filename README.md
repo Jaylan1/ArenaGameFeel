@@ -4,12 +4,12 @@
 
 ### Table of Content
 
-# Description
+## Description
 
 ### What was used
 
 ## What I Learned
 
-# How to Use the App
+## How to Use the App
 
-# Author Info
+## Author Info
