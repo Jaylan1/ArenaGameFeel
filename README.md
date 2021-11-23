@@ -13,10 +13,10 @@
 - This is a arena shooter that is all about beating the opponent 5 times to get the crown and sit on the throne.
 
 ### What was used
-- GML and GameMakerStudio2 was used along with sxfr for sound fxs, splice for music to make the game pop. I made all of the mechanics besides the camera trick from scratch by myself.
+- GML and GameMakerStudio2 was used along with sfxr for sound fxs, freemusicarchive for music to make the game pop.
 
 ## What I Learned
-- I learned how to make cutscenes, 
+- I learned how to make cutscenes, I explored level design, and also making a credit screen to give credit to all those that help me along my endeavors.
 
 ## How to Use the App
 - In order to play the game, click on the exe file and it will open up a small window you can play in.
