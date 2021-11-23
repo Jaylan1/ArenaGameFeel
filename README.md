@@ -1,8 +1,8 @@
 # ArenaGameFeel
 
 ## Screenshot
-- THUMBNAIL
-- GIF
+<img src="https://github.com/Jaylan1/FightForTheThrone/blob/main/FightForTheThroneThumbnail.PNG"/>
+<img src="https://github.com/Jaylan1/FightForTheThrone/blob/main/FightForTheThronegif.gif"/>
 
 ### Table of Content
 - Description
